@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Talha%20Siddiqui&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://github.com/talha-siddiqui137">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+NED;AI+%2F+ML+%2F+Data+Science+Enthusiast;Building+Crypto+Trading+Bots+%F0%9F%A4%96;Solving+LeetCode+One+Problem+at+a+Time" alt="Typing SVG" />
-</a>
+### 🧠 Software Engineering Student · AI / ML Builder · LeetCode Grinder
 
 </div>
 
