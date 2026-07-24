@@ -4,7 +4,6 @@
 
 ### 🧠 Software Engineering Student · AI / ML Builder · LeetCode Grinder
 
-![Profile Views](https://komarev.com/ghpvc/?username=talha-siddiqui137&color=6a11cb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
