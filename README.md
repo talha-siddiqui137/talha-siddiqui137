@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Talha%20Siddiqui&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Builder&descAlignY=55&descSize=20" width="100%"/>
+# 👋 Hi, I'm Talha Siddiqui
 
 ### 🧠 Software Engineering Student · AI / ML Builder · LeetCode Grinder
+
+![Profile Views](https://komarev.com/ghpvc/?username=talha-siddiqui137&color=6a11cb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -60,6 +62,8 @@
 
 ## 📊 GitHub Stats
 
+> If any card below shows a broken image, it's the shared free service being overloaded, not your file — see the self-deploy fix at the bottom of this README.
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talha-siddiqui137&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
@@ -85,10 +89,32 @@
 <img src="https://raw.githubusercontent.com/talha-siddiqui137/talha-siddiqui137/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚠️ The snake animation above needs a one-time GitHub Action setup (instructions below) — it won't render until that's added.
+> ⚠️ The snake animation above needs a one-time GitHub Action setup — see below, it won't render until that's added.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+<details>
+<summary>🔧 Permanent fix for broken stats/trophy cards (click to expand)</summary>
+
+<br/>
+
+The stats and trophy cards above run on free shared servers that get overloaded and randomly go down. To fix this for good, deploy your own private copy (takes ~2 minutes, completely free):
+
+1. **GitHub Stats card:** go to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), click the "Deploy to Vercel" button in its README, sign in with GitHub, deploy. You'll get your own URL like `https://github-readme-stats-yourname.vercel.app` — swap that in place of `github-readme-stats.vercel.app` in this file.
+2. **Trophies:** same idea with [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) — it has its own "Deploy to Vercel" button too.
+
+Once deployed under your own Vercel account, these never go down from other people's traffic again.
+
+</details>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting — feel free to connect!
+
+</div>
 
 </div>
