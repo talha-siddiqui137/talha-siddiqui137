@@ -46,31 +46,43 @@
 
 ## PROJECTS
 
+### [STUDENT PERFORMANCE PREDICTION USING MACHINE LEARNING](https://github.com/talha-siddiqui137/Student-Performance-Prediction-using-Machine-Learning)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=flat-square&logo=Matplotlib&logoColor=white)
+
+Predicts a student's final exam score from study habits, attendance, academic history, and other behavioral/environmental factors. Cleans and encodes the data, engineers features, then trains and compares Random Forest, Gradient Boosting, and Linear Regression — evaluated with MAE, RMSE, and R², with full visual diagnostics.
+
+---
+
+### [NETFLIX MOVIES VS TV SERIES](https://github.com/talha-siddiqui137/NETFLIX-Movies-VS-TV-Series)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=flat-square&logo=Matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat-square&logo=jupyter&logoColor=white)
+
+Exploratory data analysis on the Netflix Movies & TV Shows catalog — comparing movies vs. TV shows, content ratings, release-year trends, and top content-producing countries. Key finding: Netflix content volume rose sharply after 2015, with the USA producing the most titles.
+
+---
+
 ### [SMART ATTENDANCE SYSTEM](https://github.com/talha-siddiqui137/smart-attendance-system)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=flat-square&logo=sqlite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Production-ready Flask attendance system combining QR code scanning, GPS location verification, and role-based access control for secure, automated attendance.
-
----
-
-### ML-BASED CRYPTO TRADING BOT
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-000?style=flat-square&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=flat-square&logo=pandas&logoColor=white)
-
-Modular research pipeline (data fetching → feature engineering → XGBoost/Random Forest modeling → walk-forward backtesting) on Binance BTC/USDT data.
+Production-ready Flask attendance system with HMAC-signed QR codes and GPS location verification (100-meter radius check to block proxy attendance). Multi-role dashboards for students, teachers, and admins, plus automated weekly email reports and full audit logging.
 
 ---
 
-### STUDENT RESULT PREDICTOR
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-000?style=flat-square&logo=scikit-learn&logoColor=white)
+### [GLAMCART](https://github.com/talha-siddiqui137/GlamCart)
+![C#](https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Framework-000?style=flat-square&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-000?style=flat-square&logo=windows&logoColor=white)
+![Access](https://img.shields.io/badge/MS_Access-000?style=flat-square&logo=microsoftaccess&logoColor=white)
 
-Machine learning model that predicts student outcomes from academic data.
-
-> 📝 **Note:** update the links/repo names above to match wherever these actually live on your GitHub — I've used your real project details, but plug in the exact repo URLs.
+Desktop Fashion & Beauty Store Management System built with C# (.NET Framework 4.7.2), Windows Forms, and Microsoft Access. Customer panel for browsing, cart, and checkout with auto-discounts and receipts; admin panel for product, inventory, and order management with low-stock alerts.
 
 ---
 
@@ -82,6 +94,7 @@ Machine learning model that predicts student outcomes from academic data.
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=talha-siddiqui137&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=444444" height="160" />
 
+</div>
 
 ---
 
