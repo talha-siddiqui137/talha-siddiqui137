@@ -80,22 +80,8 @@ Machine learning model that predicts student outcomes from academic data.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=talha-siddiqui137&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github&include_all_commits=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-siddiqui137&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6" height="160" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=talha-siddiqui137&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=444444" height="160" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=talha-siddiqui137&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" />
-
-</div>
 
 ---
 
@@ -115,7 +101,7 @@ Machine learning model that predicts student outcomes from academic data.
 
 ![NED University](https://img.shields.io/badge/NED_University_of_Engineering_%26_Technology-000000?style=flat-square&logoColor=white)
 
-BSE — Software Engineering, Batch 2025, Section B
+BE — Software Engineering
 
 ---
 
