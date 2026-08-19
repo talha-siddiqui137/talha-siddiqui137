@@ -15,7 +15,7 @@
 <div align="center">
 
 *Software Engineering student building AI/ML and automation projects.*
-*Data Science · Machine Learning · Deep Learning · Solo builder.*
+*Data Science · Machine Learning · Deep Learning · Solo builder .*
 
 </div>
 
