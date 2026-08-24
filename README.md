@@ -91,8 +91,8 @@ Desktop Fashion & Beauty Store Management System built with C# (.NET Framework 4
 > commits don't lie. here's what the work actually looks like.
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=talha-siddiqui137&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=444444" height="160" />
+  
+<img src="https://streak-stats.demolab.com?user=talha-siddiqui137&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=444444" height="160" />
 
 </div>
 
